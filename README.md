@@ -12,7 +12,7 @@
 ## 🚀 Proyectos  
 **[Autotest economía conciencte](https://rompiendo-economias.vercel.app/)**  
 - Herramienta interactiva para [@rompiendo-economias] que optimizó la visualización de sus servicios.  
-- *Tecnologías*: React.js, Express.js, PDFKit.js.  
+- *Tecnologías*:HTML, CSS, JavaScript, Express.js, PDFKit.js.  
 
 ## 🎓 Experiencia Académica  
 **Tecnicatura en Computación** | Escuela Técnica N°24 D.E 17 (2020–Actualidad)  
