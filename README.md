@@ -1,7 +1,7 @@
 
 
 # Tahiel Devoto  
-**Desarrollador Web Full-Stack (React.js | Node.js)**  
+**Desarrollador Web Full-Stack Junior (React.js | Node.js)**  
 📍 Buenos Aires, Argentina | ✉️ [tahieldevotom@gmail.com](mailto:tahieldevotom@gmail.com) |[Linkedin](https://www.linkedin.com/in/tahiel-devoto/)  
 
 ## 💻 Habilidades Técnicas  
