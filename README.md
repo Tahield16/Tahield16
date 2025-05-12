@@ -10,7 +10,7 @@
 **Otros**: C#, VB (Proyectos académicos)  
 
 ## 🚀 Proyectos  
-**[Autotest economía conciencte](https://rompiendo-economias.vercel.app/)**  
+**[Autotest economía conciente](https://rompiendo-economias.vercel.app/)**  
 - Herramienta interactiva para [@rompiendo-economias](https://www.instagram.com/rompiendoeconomias/) que optimizó la visualización de sus servicios.  
 - *Tecnologías*:HTML, CSS, JavaScript, Express.js, PDFKit.js.  
 
